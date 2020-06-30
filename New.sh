@@ -1,5 +1,5 @@
 #!/bin/bash
-#author Zan
+#author coklatputih
 
 
 #color(bold)
@@ -19,11 +19,11 @@ clear
 echo   " ------------------------------------------------------------- "  
 echo   "               Instagram Multiple Bruteforce       "
 echo   " ------------------------------------------------------------- "   
-echo   "                   </>  Author : Zan  </>            "  
+echo   "                   </>  Author : coklatputih  </>            "  
 echo   " ------------------------------------------------------------- "     
-echo   "                   [  Recode : FathurID  ]           "                 
+echo   "                   [  Recode : coklatputih  ]           "                 
 echo   " ------------------------------------------------------------- "    
-echo   "                ( Subscribe : fathurkazama )    " 
+echo   "                ( Subscribe : mr didi channel )    " 
 echo   " ------------------------------------------------------------- "
 
 #dependencies
